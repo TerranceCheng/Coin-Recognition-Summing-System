@@ -1,4 +1,4 @@
-# Coin-Recognition-Summing-System-2022-09-20-
+# Coin-Recognition-Summing-System
 This is the final year project for my Diploma in Information Technology.
 
 This system was created on 20/09/2022 using Python language.
