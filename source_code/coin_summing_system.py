@@ -1,4 +1,4 @@
-'''
+'''  
 Programmer name: Cheng Yong Tat
 Program name: Coin Summing System
 Program description: This program will calculate the numbers and total sum of coins based on
